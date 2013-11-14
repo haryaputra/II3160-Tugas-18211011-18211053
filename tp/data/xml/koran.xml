@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daftar>
+<daftarkoran>
+    <id>1</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-01</edisi>
+</daftarkoran> 
+<daftarkoran>
+    <id>2</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-02</edisi>
+</daftarkoran>
+<daftarkoran>
+    <id>3</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-03</edisi> 
+</daftarkoran>
+<daftarkoran>
+    <id>4</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-04</edisi>
+</daftarkoran> <daftarkoran>
+   
+   
+    <id>5</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-05</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>6</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-06</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>7</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-07</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>8</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-08</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>9</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-09</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>10</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-10</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>11</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-11</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>12</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-12</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>13</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-13</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>14</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-14</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>15</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-15</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>16</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-16</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>17</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-17</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>18</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-18</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>19</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-19</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>20</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-20</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>21</id>
+    <nama>Tempo</nama>
+    <edisi>2013-01-21</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>22</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-01</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>23</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-02</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>24</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-03</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>25</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-04</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>26</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-05</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>27</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-06</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>28</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-07</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>29</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-08</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>30</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-09</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>31</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-10</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>32</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-11</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>33</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-12</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>34</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-13</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>35</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-14</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>36</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-15</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>37</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-16</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>38</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-17</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>39</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-18</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>40</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-19</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>41</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-20</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>42</id>
+    <nama>Kompas</nama>
+    <edisi>2013-01-21</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>43</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-01</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>44</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-02</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>45</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-03</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>46</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-04</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>47</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-05</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>48</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-06</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>49</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-07</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>50</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-08</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>51</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-09</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>52</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-10</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>53</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-11</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>54</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-12</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>55</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-13</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>56</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-14</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>57</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-15</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>58</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-16</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>59</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-17</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>60</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-18</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>61</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-19</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>62</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-20</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>63</id>
+    <nama>Media Indonesia</nama>
+    <edisi>2013-01-21</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>64</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-01</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>65</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-02</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>66</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-03</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>67</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-04</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>68</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-05</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>69</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-06</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>70</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-07</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>71</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-08</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>72</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-09</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>73</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-10</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>74</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-11</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>75</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-12</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>76</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-13</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>77</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-14</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>78</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-15</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>79</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-16</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>80</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-17</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>81</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-18</edisi> </daftarkoran> <daftarkoran>
+   
+   
+    <id>82</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-19</edisi> </daftarkoran>
+    <daftarkoran>
+    <id>83</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-20</edisi>
+    </daftarkoran> 
+    <daftarkoran>
+    <id>84</id>
+    <nama>Sindo</nama>
+    <edisi>2013-01-21</edisi>
+    </daftarkoran>
+</daftar>
