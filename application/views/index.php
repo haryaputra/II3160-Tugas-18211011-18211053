@@ -32,7 +32,6 @@
 						<a href="#me" class="fa fa-home active"><span>Home</span></a>
 						<a href="#koran" class="fa fa-folder"><span>Koran</span></a>
 						<a href="#majalah" class="fa fa-folder"><span>Majalah</span></a>
-						<a href="#buku" class="fa fa-folder"><span>Buku</span></a>
 					</nav>
 
 				<!-- Main -->
@@ -90,32 +89,6 @@
 								<b>Output</b> dapat di<b>variasi</b>kan menjadi output dengan <b>format xml, json, javascript, csv, plain</b> maupun <b>html</b> yang dapat di atur pada <b>bagian akhir URI</b> dengan format default xml (tanpa penulisan "format/...").
 								<ul>Contoh <b>penampilan seluruh data majalah</b> dalam bentuk <b>JSON</b><li><a href="./index.php/search/majalahs/format/json">"/tp/index.php/search/majalahs/format/json"</a></li></ul>
 								</p>
-								<a href="#buku" class="jumplink pic">
-									next to section buku <span class="jumplink arrow fa fa-chevron-right"></span>
-								</a>
-							</article>
-
-						<!-- Buku --> 
-							<article id="buku" class="panel">
-								<header>
-									<h2>Buku</h2>
-								</header>
-								<p>
-									Data buku disimpan dalam bentuk file sql yang berada pada folder "data". Oleh karena itu diasumsikan file sql telah di import kedalam database pada server.
-								</p>
-								<p>
-								<b>URI</b> yang digunakan dalam <b>penampilan seluruh data buku</b> dalam bentuk <b>xml</b> adalah <a href="./index.php/search/bukus">"/tp/index.php/search/bukus/"</a>
-								</p>
-								<p>
-								<b>URI</b> yang digunakan dalam <b>penampilan spesifik data buku</b>berdasarkan <b>ID nomor 3</b> dalam bentuk <b>xml</b> adalah <a href="./index.php/search/buku/id/3/format/xml">"/tp/index.php/search/buku/id/3/format/xml"</a>
-								</p>
-								<p>
-								<b>Output</b> dapat di<b>variasi</b>kan menjadi output dengan <b>format xml, json,</b> maupun <b>html</b> yang dapat di atur pada <b>bagian akhir URI</b> dengan format default xml (tanpa penulisan "format/...").
-								<ul>Contoh <b>penampilan seluruh data buku</b> dalam bentuk <b>JSON</b><li><a href="./index.php/search/bukus/format/json">"/tp/index.php/search/bukus/format/json"</a></li></ul>
-								</p>
-								<a href="#home" class="jumplink pic">
-									back to home <span class="jumplink arrow fa fa-chevron-right"></span>
-								</a>
 							</article>
 
 					</div>
