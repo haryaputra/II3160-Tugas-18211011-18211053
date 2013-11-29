@@ -10,8 +10,7 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet" />
-		<script src="./js/jquery.min.js"></script>
+		<script src="./js/jquery.js"></script>
 		<script src="./js/config.js"></script>
 		<script src="./js/skel.min.js"></script>
 		<noscript>
@@ -20,6 +19,7 @@
 			<link rel="stylesheet" href="./css/style-desktop.css" />
 			<link rel="stylesheet" href="./css/noscript.css" />
 		</noscript>
+		
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
 	<body class="homepage">
@@ -32,6 +32,8 @@
 						<a href="#me" class="fa fa-home active"><span>Home</span></a>
 						<a href="#koran" class="fa fa-folder"><span>Koran</span></a>
 						<a href="#majalah" class="fa fa-folder"><span>Majalah</span></a>
+						<a href="#test" class="fa fa-folder"><span>WS Teman</span></a>
+						<a href="#test2" class="fa fa-folder"><span>WS Teman2</span></a>					
 					</nav>
 
 				<!-- Main -->
@@ -91,6 +93,60 @@
 								</p>
 							</article>
 
+						<!-- WS Teman --> 
+							<article id="test" class="panel">
+								<header>
+									<h2>WS Teman</h2>
+								</header>
+								<p>berikut merupakan WS dari nico</p>
+								<table id="tabel-nico" class="style1"></table>
+								<script type="text/javascript">
+$(document).ready(function() {
+	$.ajax({
+		type: "GET",
+		url: "http://www.sti-itb.org/II3160-Pemograman-Integratif/show.php?data=makanan.xml",
+		dataType: "xml",
+		success: function(xml) {
+			$(xml).find('makanan').each(function() {
+				var nama = $(this).find('nama').text();
+				var harga = $(this).find('harga').text();
+				console.log(nama);
+				$('<tr></tr>').html('<td>' + nama + '</td><td>' + harga + '</td>').appendTo('#tabel-nico');
+			});
+		}
+	});
+});
+</script>
+							</article>
+							<!-- WS Teman 2 -->
+							<article id="test2" class="panel">
+								<header>
+									<h2>WS Teman</h2>
+								</header>
+								<p>berikut merupakan WS dari andy</p>
+<table id="tabel-andy" class="style1"></table>
+								<script type="text/javascript">
+$(document).ready(function() {
+	$.ajax({
+		type: "GET",
+		url: "http://www.sti-itb.org/habib-andy/index.php/ws/menu/semua/",
+		dataType: "xml",
+		success: function(xml) {
+			$(xml).find('menu').each(function() {
+				var nama = $(this).find('nama').text();
+				var daerah = $(this).find('daerah').text();
+				var foto = $(this).find('foto').text();
+				var harga = $(this).find('harga').text();
+				var kategori = $(this).find('kategori').text();
+				console.log(nama);
+				$('<tr></tr>').html('<td>' + nama + '</td><td>' + daerah + '</td><td>'+ foto + '</td><td>'+ harga + '</td><td>'+ kategori + '</td>').appendTo('#tabel-andy');
+			});
+		}
+	});
+});
+</script>
+							</article>
+							</article>
 					</div>
 		
 				<!-- Footer -->
